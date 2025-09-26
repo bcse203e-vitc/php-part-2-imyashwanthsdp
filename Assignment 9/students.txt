@@ -1,0 +1,7 @@
+Anita,anita123@gmail.com,2000-06-15
+Rahul,rahul_at_gmail.com,1998-07-20
+Priya,priya@gmail.com,2001-01-05
+Arun,arun123@yahoo.com,1999-12-10
+Meena,meenagmail.com,2002-04-25
+yash,yash@gmail.com,2220-0123-23
+
